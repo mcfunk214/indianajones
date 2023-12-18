@@ -1,0 +1,45 @@
+
+
+
+body{
+    background-image: url(Jungle_background.jpg); 
+    font-family:'SF Fedora', Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(255, 166, 0)
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ol{
+    
+    font-size: 16px;
+    background-color: rgb(29, 35, 29);
+   
+}
+
+h1{ 
+    background-color: rgb(29, 35, 29);
+    text-align: center;
+}
+h2{
+    background-color: rgb(29, 35, 29);
+    text-align: center;
+}
+h3{
+    background-color: rgb(29, 35, 29);
+    text-align: center;
+    font-size: 25px;
+}
+h4{
+    background-color: rgb(29, 35, 29);
+    text-align: center;
+    font-size: 25px;
+}
+.tableaustyle{
+    display:block;
+    margin:auto;
+}
